@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1400" viewBox="0 0 1000 1400">
+  <rect width="1000" height="1400" fill="white"/>
+  <g font-family="Arial, sans-serif" fill="#161616">
+    <text x="70" y="75" font-size="38" font-weight="700">📚 The Code Magazine</text>
+    <g fill="#1d4ed8" font-size="18" text-decoration="underline"><text x="70" y="116">Home</text><text x="135" y="116">Blog</text><text x="195" y="116">Challenges</text><text x="305" y="116">Info</text></g>
+    <line x1="70" y1="140" x2="930" y2="140" stroke="#cbd5e1"/>
+    <text x="70" y="190" font-size="30" font-weight="700">The Basic Language of the Web: HTML</text>
+    <text x="70" y="228" font-size="17">👩‍💻 Posted by <tspan font-weight="700">Your Name</tspan> on June 21st 2027</text>
+    <rect x="70" y="255" width="620" height="220" rx="8" fill="#172033"/>
+    <g font-family="monospace" font-size="21"><text x="110" y="335" fill="#7dd3fc">&lt;article&gt;</text><text x="145" y="375" fill="#fef3c7">&lt;h1&gt;Learn HTML&lt;/h1&gt;</text><text x="145" y="415" fill="#c4b5fd">&lt;p&gt;Build the web.&lt;/p&gt;</text><text x="110" y="455" fill="#7dd3fc">&lt;/article&gt;</text></g>
+    <text x="70" y="515" font-size="17">All modern websites are built using HTML, CSS and JavaScript.</text>
+    <text x="70" y="560" font-size="23" font-weight="700">What is HTML?</text><text x="70" y="592" font-size="17">HTML describes the structure and content of a web page.</text>
+    <text x="70" y="635" font-size="23" font-weight="700">Why should you learn HTML?</text><text x="70" y="667" font-size="17">HTML is the foundation of every website. Learn more at <tspan fill="#1d4ed8" text-decoration="underline">MDN Web Docs</tspan>.</text>
+    <text x="70" y="730" font-size="26" font-weight="700">HTML learning plan</text>
+    <g font-size="17"><rect x="70" y="755" width="620" height="110" fill="none" stroke="#555"/><line x1="70" y1="792" x2="690" y2="792" stroke="#555"/><line x1="70" y1="829" x2="690" y2="829" stroke="#555"/><line x1="330" y1="755" x2="330" y2="865" stroke="#555"/><line x1="500" y1="755" x2="500" y2="865" stroke="#555"/><text x="85" y="781" font-weight="700">Topic</text><text x="345" y="781" font-weight="700">Difficulty</text><text x="515" y="781" font-weight="700">Status</text><text x="85" y="818">Page structure</text><text x="345" y="818">Easy</text><text x="515" y="818">Completed</text><text x="85" y="855">Forms</text><text x="345" y="855">Medium</text><text x="515" y="855">In progress</text></g>
+    <text x="70" y="925" font-size="26" font-weight="700">Join our newsletter</text>
+    <g font-size="17"><text x="70" y="965">Name:</text><rect x="70" y="980" width="310" height="34" fill="white" stroke="#777"/><text x="82" y="1003" fill="#777">Your name</text><text x="70" y="1050">Email:</text><rect x="70" y="1065" width="310" height="34" fill="white" stroke="#777"/><text x="82" y="1088" fill="#777">you@example.com</text><text x="70" y="1135">Favorite topic:</text><rect x="70" y="1150" width="310" height="34" fill="white" stroke="#777"/><text x="82" y="1173">HTML</text><rect x="70" y="1210" width="16" height="16" fill="white" stroke="#777"/><text x="96" y="1224">I want to receive updates</text><rect x="70" y="1250" width="105" height="38" rx="3" fill="#e5e7eb" stroke="#777"/><text x="85" y="1275">Subscribe</text></g>
+    <text x="725" y="275" font-size="23" font-weight="700">Related posts</text><g fill="#1d4ed8" font-size="16" text-decoration="underline"><text x="725" y="315">How to Learn Web Development</text><text x="725" y="355">The Unknown Powers of CSS</text><text x="725" y="395">Why JavaScript is Awesome</text></g>
+    <line x1="70" y1="1330" x2="930" y2="1330" stroke="#cbd5e1"/><text x="70" y="1370" font-size="16">Copyright © 2027 by The Code Magazine.</text>
+  </g>
+</svg>
