@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>js</title>
+    <style>
+      body {
+        max-width: 720px;
+        margin: 40px auto;
+        padding: 16px;
+      }
+      button,
+      input {
+        padding: 10px;
+        margin: 4px;
+      }
+      .highlight {
+        color: white;
+        background: #8fa;
+      }
+      .completed {
+        text-decoration: line-through;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="title">JavaScript ის გაკვეთილი!!</h1>
+    <p class="description">დღეს ვიწყებთ დომის სწავლას</p>
+    <button type="button" id="change-button">შევცვალე სათაური</button>
+    <button type="button" id="theme-button">შევცვალე სტილი</button>
+    <form id="task-form">
+      <label for="task-input">ახალი დავალება</label>
+      <input id="task-input" type="text" />
+      <button type="submit">დამატება</button>
+    </form>
+    <p class="message"></p>
+    <ul id="task-list"></ul>
+
+    <h1>მომხმარებლები</h1>
+    <ul id="users"></ul>
+    <script src="./script.js"></script>
+  </body>
+</html>
